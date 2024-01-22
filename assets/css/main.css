@@ -1791,7 +1791,8 @@ input, select, textarea {
 				width: auto;
 			}
 			.img_rounded-profile {
-				  border-radius: 50%;
+				border-radius: 50%;
+				width: 100%;
 			}
 
 /* List */
