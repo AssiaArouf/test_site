@@ -1790,6 +1790,9 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+			.img_rounded-profile {
+				  border-radius: 50%;
+			}
 
 /* List */
 
